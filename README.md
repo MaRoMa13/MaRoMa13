@@ -1,5 +1,5 @@
 # Hi, I'm Martha Rodríguez Malagón 👋
-## Data Analyst | Healthcare Background
+## Data Analyst | Registered Nurse
 
 ### About Me
 Data Analyst Junior with a healthcare background and hands-on experience in Python, SQL, and Tableau. My interest in data analytics comes from my experience as an ICU nurse, where data-driven decision-making is critical.
